@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34526.213
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoronoiConsole", "VoronoiConsole.csproj", "{2FFA62D8-1679-4BC7-9162-2D8936213545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FFA62D8-1679-4BC7-9162-2D8936213545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FFA62D8-1679-4BC7-9162-2D8936213545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FFA62D8-1679-4BC7-9162-2D8936213545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FFA62D8-1679-4BC7-9162-2D8936213545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F55949E8-2CD4-4204-BC3F-3E677ACC6697}
+	EndGlobalSection
+EndGlobal
